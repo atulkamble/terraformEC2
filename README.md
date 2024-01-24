@@ -1,3 +1,8 @@
+```
+git clone https://github.com/atulkamble/terraformEC2.git
+cd terraformEC2
+```
+
 // create default vpc
 ```
 aws ec2 create-default-vpc
